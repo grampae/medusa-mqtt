@@ -7,6 +7,7 @@
 # Medusa-mqtt
 
 Medusa-mqtt is a MQTT enabled fork of the Medusa agent, a cross-platform agent compatible with Python 3.8.
+It may be a little buggy due to porting it to MQTT however it overall works fine.
 
 ## Installation
 To install Medusa-mqtt, you'll need Mythic v3 installed on a remote computer. You can find installation instructions for Mythic at the [Mythic project page](https://github.com/its-a-feature/Mythic/).
