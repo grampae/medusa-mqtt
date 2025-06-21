@@ -7,6 +7,7 @@
 # Medusa-mqtt
 
 Medusa-mqtt is a MQTT enabled fork of the Medusa agent, a cross-platform agent compatible with Python 3.8.
+ 
 It may be a little buggy due to porting it to MQTT however it overall works fine.
 
 ## Installation
